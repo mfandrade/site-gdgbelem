@@ -30,7 +30,7 @@ description: > # this means to ignore newlines until "baseurl:"
   a ocorrer no dia 28 de maio de 2015 no auditório do
   Ceamazon, no Parque Tecnológico do Guamá, campus da
   UFPA em Belém.
-baseurl: "/io2015" # the subpath of your site, e.g. /blog/
+baseurl: "/io2015/" # the subpath of your site, e.g. /blog/
 url: "http://www.gdgbelem.com.br/io2015/" # the base hostname & protocol for your site
 twitter_username: gdgbelem
 github_username:  tasafo
