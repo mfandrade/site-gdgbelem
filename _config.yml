@@ -23,15 +23,17 @@
 
 
 # Site settings
-title: material
-email: naveen@pixelblenders.com
+title: Google I/O Extended Belém 2015
+email: mfandrade+gdgbelem@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Hello, I'm Naveen, a freelance front-end developer
-  and UI designer. Check out my projects on GitHub
-baseurl: "/material/" # the subpath of your site, e.g. /blog/
-url: "http://naveenshaji.github.io/material" # the base hostname & protocol for your site
-twitter_username: navvenshady
-github_username:  naveenshaji
+  Site oficial do evento Google I/O Extended Belém 2015 
+  a ocorrer no dia 28 de maio de 2015 no auditório do
+  Ceamazon, no Parque Tecnológico do Guamá, campus da
+  UFPA em Belém.
+baseurl: "/io2015" # the subpath of your site, e.g. /blog/
+url: "http://www.gdgbelem.com.br/io2015/" # the base hostname & protocol for your site
+twitter_username: gdgbelem
+github_username:  tasafo
 css: "cyan"
 scroll-cursor: "#00BCD4"
 scroll-rail: "#0097A7"
