@@ -5,21 +5,21 @@ permalink: /:title.html
 
 # Conference info
 conf:
-  name: "Conference name"
-  description: "Conference description"
-  date: "November 15"
-  price: "Only $100"
-  address: "Boulevard Kukulcan, 30, México"
-  venue: "Coco Bongo"
-  city: "Cancún"
+  name: "" # Google I/O Extended Belém 2015"
+  description: "" # Versão extendida da famosa conferência anual do Google, agora em Belém."
+  date: "" #28 de maio"
+  price: ""
+  address: "Ceamazon, Ufpa, Belém"
+  venue: "" #PCT Guamá"
+  city: "Belém"
 
 # Site info
 site:
-  url: "http://confboilerplate.com"
+  url: "http://gdgbelem.com.br"
   favicon: "http://braziljs.org/favicon.ico"
-  googleanalytics: "UA-33656081-1"
+  googleanalytics: ""
   images:
-    cover: "http://f.cl.ly/items/2X28422q1e3w0C2U1P3H/866591_24254643.jpg"
+    cover: "/img/banner-iobelem-2015.png"
     facebook: "http://braziljs.org/img/fb-share.jpg"
 
 subscribe_text: "Register now"
@@ -28,9 +28,9 @@ subscribe_url: "http://www.eventick.com.br/"
 # Active sections on the website
 sections:
   about: true
-  c4p: true
+  c4p: false
   location: true
-  speakers: true
+  speakers: false
   schedule: true
   sponsors: true
   partners: true
@@ -39,8 +39,8 @@ sections:
 # The entire schedule
 schedule:
   -
-    name: "Check-in / Breakfast"
-    time: "9h00"
+    name: "Credenciamento"
+    time: "12h00"
   -
     name: "Linus Torvalds"
     photo: "http://f.cl.ly/items/2A3p1N0C3c0n3N3R1w2B/speaker.jpg"
@@ -124,7 +124,7 @@ partners:
 
 # About section
 about_section:
-   title: "About"
+   title: "Sobre o evento"
    description: 
     - 
       p: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
@@ -142,48 +142,48 @@ c4p_section:
 
 # Contact section
 contact_section:
-   title: "Contact"
-   text: "Contact us if you have any questions."
+   title: "Fale conosco"
+   text: "Contate-nos em caso de qualquer dúvida."
    contacts:
    -
      title: "Email"
-     link: "mailto:your_email@domain"
+     link: "mailto:comunidadetasafo@gmail.com"
    -
      title: "Facebook"
-     link: "https://www.facebook.com/yourpage"
-   email: "your_email@domain"
-   twitter_url: "http://twitter.com/your_twitter"
-   twitter_username: "@your_twitter"
+     link: "https://www.facebook.com/GDGBelem"
+   email: "comunidadetasafo@gmail.com"
+   twitter_url: "http://twitter.com/gdgbelem"
+   twitter_username: "@gdgbelem"
    show_form: false
    form:
     action: "contato.php"
-    name: "What's your name?"
-    email: "What's your email?"
-    message: "Write a message"
-    send_button: "Send"
+    name: "Qual seu nome?"
+    email: "Qual seu e-mail?"
+    message: "Deixe-nos uma mensagem"
+    send_button: "Enviar"
 
 # Location section
 location_section:
-   title: "Location"
+   title: "Local"
 
 # Partners section
 partners_section:
-   title: "Partners"
+   title: "Parceiros"
    show_your_logo_here: true
 
 # Schedule section
 schedule_section:
-   title: "Schedule"
+   title: "Agenda"
    text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
-   time: "Time"
-   slot: "Slot"
-   description: "Description"
+   time: "Horário"
+   slot: "Espaço"
+   description: "Descrição"
 
 # Speakers section
 speakers_section:
-   title: "Speakers"
+   title: "Palestrantes"
 
 # Sponsors section
 sponsors_section:
-   title: "Sponsors"
+   title: "Patrocinadores"
    show_your_logo_here: true
