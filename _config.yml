@@ -40,73 +40,42 @@ sections:
 schedule:
   -
     name: "Credenciamento"
-    time: "12h00"
+    time: "12:00"
   -
-    name: "Linus Torvalds"
-    photo: "http://f.cl.ly/items/2A3p1N0C3c0n3N3R1w2B/speaker.jpg"
-    bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-    company: "Linux Foundation"
-    twitter: "linus"
+    name: "Abertura do evento"
+    time: "12:30"
+  -
+    name: "Transmissão ao vivo do keynote principal do Google I/O"
+    time: "13:00"
+  -
+    name: "Intervalo para coffee-break e networking"
+    time: "15:30"
+  -
+    name: "Shark-bowl sobre os temas apresentados"
+    time: "16:10"
+  -
+    name: "Milton Alcântara"
+    photo: "https://pbs.twimg.com/profile_images/460568362712457217/V1DMCrM6.jpeg"
+    bio: "-"
+    company: "BB Tecnologia e Serviços"
+    twitter: "miltonalcantara"
     presentation:
-      title: "Digging into a Linux Kernel"
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-      time: "10h00"
+      title: "Introdução ao Material Design"
+      description: ""
+      time: "16:50"
   -
-    name: "Bill Gates"
-    photo: "http://f.cl.ly/items/2A3p1N0C3c0n3N3R1w2B/speaker.jpg"
-    bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-    company: "Microsoft"
-    twitter: "billy95"
+    name: "Larissa Guimarães"
+    photo: "https://pbs.twimg.com/profile_images/587422043735457792/jPQJr3Bh.jpg"
+    bio: ""
+    company: "BB Tecnologia e Serviços"
+    twitter: "lariguimar"
     presentation:
-      title: "Introducing Windows 12"
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-      time: "11h00"
+      title: "Conhecendo o Android Wear"
+      description: ""
+      time: "17:40"
   -
-    name: "Lunch"
-    time: "12h00"
-  -
-    name: "Chuck Norris"
-    photo: "http://f.cl.ly/items/2A3p1N0C3c0n3N3R1w2B/speaker.jpg"
-    bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-    company: "Delta Command"
-    twitter: "littlechuck"
-    presentation:
-      title: "How to kill a elephant with one finger"
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-      time: "13h00"
-  -
-    name: "Steve Jobs"
-    photo: "http://f.cl.ly/items/2A3p1N0C3c0n3N3R1w2B/speaker.jpg"
-    bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-    company: "Apple, Inc."
-    twitter: "stevie"
-    presentation:
-      title: "Presenting iPad"
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-      time: "14h00"
-  -
-    name: "Coffee-break"
-    time: "15h00"
-  -
-    name: "Mark Zuckerberg"
-    photo: "http://f.cl.ly/items/2A3p1N0C3c0n3N3R1w2B/speaker.jpg"
-    bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-    company: "Facebook"
-    twitter: "zuck"
-    presentation:
-      title: "Revealing Facebook Secrets"
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-      time: "16h00"
-  -
-    name: "Steve Wozniak"
-    photo: "http://f.cl.ly/items/2A3p1N0C3c0n3N3R1w2B/speaker.jpg"
-    bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-    company: "Apple, Inc."
-    twitter: "woz"
-    presentation:
-      title: "Why do I prefer Android over iPhone"
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-      time: "17h00"
+    name: "Momento dos patrocinadores, sorteio de brindes e encerramento."
+    time: "18:10"
 
 # List of Sponsors
 sponsors:
