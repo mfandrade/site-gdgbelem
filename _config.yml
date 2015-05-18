@@ -111,18 +111,30 @@ sponsors:
 # List of Partners
 partners:
   -
-    name: "BrazilJS"
-    logo: "http://f.cl.ly/items/2N3i2W0X2f3c2g2Z2N0f/Untitled-1.png"
-    url: "http://braziljs.org"
+    name: "Ceamazon"
+    logo: "/img/ceamazon.png"
+    url: "http://www.ceamazon.com.br"
+  -
+    name: "PCT Guamá"
+    logo: "/img/pctguama.png"
+    url: "http://pctguama.org.br"
+  -
+    name: "UFPA"
+    logo: "/img/ufpa.png"
+    url: "http://www.ufpa.br"
+  -
+    name: "Tá Safo!"
+    logo: "/img/tasafo.png"
+    url: "http://tasafo.wordpress.com"
 
 # About section
 about_section:
    title: "Sobre o evento"
    description: 
     - 
-      p: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+      p: "A Google I/O é a famosa convenção técnica anual da Google que acontece na Califórnia ­ EUA e é transmitida para mais de 140 países. Desenvolvedores e empreendedores de base tecnológica do mundo todo se reúnem para acompanhar as transmissões em extensões locais do evento que são combinadas com atividades colaterais de interesse específico, as \"Google I/O Extended\"".
     - 
-      p: "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+      p: "Neste ano a Google I/O Extended Belém será organizada pelo GDG (Google Developers Group) em parceria com várias empresas locais e entusiastas da economia digital. Além da transmissão do keynote oficial diretamente da sede da Google, o evento contará com palestras exclusivas, reunindo empreendedores, investidores e profissionais de TI num ambiente corporativo para proporcionar a troca de experiências, networking, feedback especializado e enriquecimento geral da comunidade empreendedora digital da cidade."
 
 # Call for papers section
 c4p_section:
