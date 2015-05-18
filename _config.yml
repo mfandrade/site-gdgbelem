@@ -179,4 +179,4 @@ speakers_section:
 # Sponsors section
 sponsors_section:
    title: "Patrocinadores"
-   show_your_logo_here: true
+   show_your_logo_here: false
