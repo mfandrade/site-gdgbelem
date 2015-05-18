@@ -123,6 +123,10 @@ partners:
     logo: "/img/ufpa.png"
     url: "http://www.ufpa.br"
   -
+    name: "Altos Eventos"
+    logo: "/img/altoseventos.png"
+    url: "http://www.facebook.com/AltosEventos"
+  -
     name: "Tá Safo!"
     logo: "/img/tasafo.png"
     url: "http://tasafo.wordpress.com"
