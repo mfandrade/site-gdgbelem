@@ -6,7 +6,7 @@
 
     {% if site.conf.address != '' %}
       <p>{{ site.conf.address }}</p>
-      <div id="map-canvas" class="location-area" data-address="{{ site.conf.address }}"></div>
+      <div id="map-canvas" class="location-area" data-address="{{ site.conf.address.coords }}"></div>
     {% endif %}
 
   </section>

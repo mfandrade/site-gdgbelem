@@ -9,8 +9,9 @@ conf:
   description: "Versão extendida da famosa conferência anual do Google, agora em Belém."
   date: "28 de maio"
   price: "Entrada gratuita"
-  address: "Ceamazon, Ufpa, Belém"
-  venue: "-1.466837232,-48.44704006"
+  address: "Parque de Ciência e Tecnologia do Guamá - Av. Perimetral 2651, prédio 01 (Ceamazon), UFPA, Belém, PA"
+    coords: "-1.466881,-48.446978"
+  venue: "Ceamazon, Ufpa, Belém"
   city: "Belém"
 
 # Site info
@@ -188,7 +189,7 @@ partners_section:
 # Schedule section
 schedule_section:
    title: "Agenda"
-   text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+   text: ""
    time: "Horário"
    slot: "Espaço"
    description: "Descrição"
