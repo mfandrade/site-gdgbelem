@@ -4,8 +4,8 @@
   <section class="location" id="location">
     <h2 class="section-title">{{site.location_section.title}}</h2>
 
-    {% if site.conf.address != '' %}
-      <p>{{ site.conf.address }}</p>
+    {% if site.conf.address %}
+      <p>{{ site.conf.address.venue }}</p>
       <div id="map-canvas" class="location-area" data-address="{{ site.conf.address.coords }}"></div>
     {% endif %}
 
