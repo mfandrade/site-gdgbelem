@@ -56,17 +56,17 @@ schedule:
   -
     name: "Milton Alcântara"
     photo: "https://pbs.twimg.com/profile_images/460568362712457217/V1DMCrM6.jpeg"
-    bio: "-"
+    bio: "Empregado da BB Tecnologia, especialista em Material Design."
     company: "BB Tecnologia e Serviços"
     twitter: "miltonalcantara"
     presentation:
       title: "Introdução ao Material Design"
-      description: ""
+      description: "O que é o Material Design?  Tudo para você ficar por dentro desta nova tecnologia do Google."
       time: "16:50"
   -
     name: "Larissa Guimarães"
     photo: "https://pbs.twimg.com/profile_images/587422043735457792/jPQJr3Bh.jpg"
-    bio: ""
+    bio: "Empregada da BB Tecnologia, especialista em Android Wear."
     company: "BB Tecnologia e Serviços"
     twitter: "lariguimar"
     presentation:
@@ -80,9 +80,33 @@ schedule:
 # List of Sponsors
 sponsors:
   -
-    name: "Eventick"
-    logo: "http://f.cl.ly/items/1U3p0Z0e2w0I1i3z1X22/Image%202012.09.25%203:00:58%20PM.png"
-    url: "http://eventick.com.br"
+    name: "Google Brasil"
+    logo: "/img/google.png"
+    url: "http://www.google.com.br"
+  -
+    name: "Inteceleri Solução"
+    logo: "/img/inteceleri.png"
+    url: "http://www.inteceleri.com.br"
+  -
+    name: "Editora Novatec"
+    logo: "/img/novatec.png"
+    url: "http://www.novatec.com.br"
+  -
+    name: "Jambu Tecnologia"
+    logo: "/img/jambutec.png"
+    url: "http://www.jambu.com.br"
+  -
+    name: "BB Tecnologia e Serviços"
+    logo: "/img/bbts.png"
+    url: "http://www.jambu.com.br"
+  -
+    name: "Ideias Mobile"
+    logo: "/img/ideias.png"
+    url: "http://www.ideiasmobile.com.br"
+  -
+    name: "Android na Rede"
+    logo: "/img/android.png"
+    url: "http://www.androidnarede.com.br"
 
 # List of Partners
 partners:
@@ -138,7 +162,7 @@ location_section:
 # Partners section
 partners_section:
    title: "Parceiros"
-   show_your_logo_here: true
+   show_your_logo_here: false
 
 # Schedule section
 schedule_section:
