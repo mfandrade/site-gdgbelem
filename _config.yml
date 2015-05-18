@@ -44,15 +44,19 @@ schedule:
   -
     name: "Abertura do evento"
     time: "12:30"
+    description: "Apresentação do GDG Belém."
   -
-    name: "Transmissão ao vivo do keynote principal do Google I/O"
+    name: "Keynote do Google I/O"
     time: "13:00"
+    description: "Transmissão ao vivo via streaming da principal palestra-show do Google I/O"
   -
-    name: "Intervalo para coffee-break e networking"
+    name: "Intervalo"
     time: "15:30"
+    description: "Pausa para coffee-break e networking entre os participantes."
   -
-    name: "Shark-bowl sobre os temas apresentados"
+    name: "Shark-bowl"
     time: "16:10"
+    description: "Discussões abertas com opiniões e debates sobre assuntos relevantes."
   -
     name: "Milton Alcântara"
     photo: "https://pbs.twimg.com/profile_images/460568362712457217/V1DMCrM6.jpeg"
@@ -71,10 +75,11 @@ schedule:
     twitter: "lariguimar"
     presentation:
       title: "Conhecendo o Android Wear"
-      description: ""
+      description: "Android Wear.  Conheça o básico da programação para dispositívos “vestíveis”."
       time: "17:40"
   -
-    name: "Momento dos patrocinadores, sorteio de brindes e encerramento."
+    name: "Encerramento"
+    description: "Momento dos patrocinadores e sorteio de brindes."
     time: "18:10"
 
 # List of Sponsors
